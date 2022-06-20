@@ -1,0 +1,13 @@
+#container{
+    position:relative;
+    width:100%;
+    height:1300px;
+}
+#canadapage-information{
+    width: 84%;
+    height: 580px; 
+    float: right;
+}
+img{
+    float: right;
+}

@@ -1,0 +1,13 @@
+#container{
+    position:relative;
+    width:100%;
+    height:700px;
+}
+#feedback-form-container{
+    font-size: 20px;
+}
+#feedback-form-container span{
+    font-size: 15px;
+    color: red;
+    vertical-align: super;
+}
